@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book isbn="9789863475187">
+		<title>Android程式設計入門、應用到精通</title>
+		<author>孫宏明</author>
+		<publisher>碁峰</publisher>
+		<publishdate>2015/02/05</publishdate>
+	</book>
+	<book isbn="9789572243909">
+		<title>Swift 程式設計入門</title>
+		<author>彼得潘</author>
+		<publisher>松崗</publisher>
+		<publishdate>2015/03/20</publishdate>
+	</book>
+	<book isbn="9789869014946">
+		<title>S.</title>
+		<author>J.J. 亞伯拉罕, 道格‧道斯特</author>
+		<publisher>寂寞</publisher>
+		<publishdate>2014/09/01</publishdate>
+	</book>
+	<book isbn="9789571352497">
+		<title>1Q84 Book3</title>
+		<author>村上春樹</author>
+		<publisher>時報出版</publisher>
+		<publishdate>2010/09/30</publishdate>
+	</book>
+</books>
